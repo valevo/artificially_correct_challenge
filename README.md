@@ -4,7 +4,7 @@ The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_
 
 ## SABIO Challenge
 
-### Does Bias Survive Translation and Multilingulism?
+### Does Bias in Collections and Archives Survive Translation and Multilingualism?
 
 In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [National Museum of World Cultures](https://collectie.wereldculturen.nl/), we are developing SABIO (The SociAl BIas Observatory), a tool for exploratory analysis of biases in museum collections and archives. With the help of a suite of machine learning algorithms that work on the textual entries present in a given collection, SABIO allows heritage professionals to 
 
