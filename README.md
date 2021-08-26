@@ -4,7 +4,7 @@ The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_
 
 ## CulturalAI
 
-![CulturalAI Logo](https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg "CulturalAI Logo")
+![CulturalAI Logo](https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg "CulturalAI Logo" =100x20)
 
 
 ## SABIO Challenge
