@@ -14,7 +14,7 @@ The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_
 
 ### Does Bias in Collections and Archives Survive Translation and Multilingualism?
 
-In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [National Museum of World Cultures](https://collectie.wereldculturen.nl/), we are developing SABIO (The SociAl BIas Observatory), a tool for exploratory analysis of biases in museum collections and archives. With the help of a suite of machine learning algorithms that work on the textual entries present in a given collection, SABIO allows heritage professionals to 
+<!-- In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [National Museum of World Cultures](https://collectie.wereldculturen.nl/), we are developing SABIO (The SociAl BIas Observatory), a tool for exploratory analysis of biases in museum collections and archives. With the help of a suite of machine learning algorithms that work on the textual entries present in a given collection, SABIO allows heritage professionals to  -->
 
 
 
@@ -70,5 +70,11 @@ In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [Nat
   
    Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other. 
    To be able to assess the quality and extent of the biases found with SABIO, it is useful if participants understand the language(s) of the input collection and therefore a team of speakers of different languages would be an advantage. 
+   
+   
+7. Materials
+
+     - screenshots of SABIO in action
+     - screenshots of the NMvW data? search interface? tables?
  
  
