@@ -2,12 +2,12 @@
 The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_ Hackathon
 
 
-## CulturalAI
+## CulturalAI  <img src="https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg" alt="CulturalAI Logo" width="200"/>
+
 
 <!-- ![CulturalAI Logo](https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg "CulturalAI Logo" =100x20) -->
 
 
-<img src="https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg" alt="CulturalAI Logo" width="200"/>
 
 ## SABIO Challenge
 
@@ -41,10 +41,21 @@ In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [Nat
    - many collections are subject to copyright restriction, which may pose a hurdle in this challenge
 
 4. **Resources**:
-   - 
+
+   - the SABIO interface to the NMvW collection (which is freely accessible)
+   - SABIO's backend, written in Python, is available on our GitHub:  
+     (1) data preprocessing scripts (to prepare a new dataset for input to SABIO)
+     (2) search interface to the given collection
+     (3) scoring algorithms to reorganise the dataset in terms of bias
 
 6. **Skills**:
 
+ Participants should have experience with either:
+ 
+   - basic statistics and machine learning, specifically with natural language applications & (Python) programming
+   - databases and digital archives (i.e. tabular data, RDF, etc), their intricacies and how to (pre-)process them for ML
+   - doing research (historical, sociological, etc) on heritage collections, archives and the like
+   - 
 
 
 
