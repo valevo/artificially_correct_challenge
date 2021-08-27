@@ -53,17 +53,16 @@ In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [Nat
      (3) scoring algorithms to reorganise the dataset in terms of bias
 
 6. **Skills**:
-
- Participants should have experience with either:
+   Participants should have experience with either:
  
-   - basic statistics and machine learning, specifically with natural language applications & (Python) programming
-     (think of constructing word embeddings or defining and computing semantic association scores)
-   - databases and digital archives (i.e. tabular data, RDF, etc), their intricacies and how to (pre-)process them for ML
-     (e.g. building a database cleaning pipeline, basic natural language preprocessing on large sets of text)
-   - doing research (historical, sociological, etc) on heritage collections, archives and the like
-   - philosophical or sociological research on bias, especially in cultural contexts
+     - basic statistics and machine learning, specifically with natural language applications & (Python) programming
+       (think of constructing word embeddings or defining and computing semantic association scores)
+     - databases and digital archives (i.e. tabular data, RDF, etc), their intricacies and how to (pre-)process them for ML
+       (e.g. building a database cleaning pipeline, basic natural language preprocessing on large sets of text)
+     - doing research (historical, sociological, etc) on heritage collections, archives and the like
+     - philosophical or sociological research on bias, especially in cultural contexts
   
- Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other. 
- To be able to assess the quality and extent of the biases found with SABIO, it is useful if participants understand the language(s) of the input collection and therefore a team of speakers of different languages would be an advantage. 
+   Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other. 
+   To be able to assess the quality and extent of the biases found with SABIO, it is useful if participants understand the language(s) of the input collection and therefore a team of speakers of different languages would be an advantage. 
  
  
