@@ -44,12 +44,13 @@ The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_
 
 3. **Considerations**:
    - machine learning algorithms (& underlying large data sets) can require considerable computation power  
-     -> the DHLab can potentially provide some resources
+<!--      -> the DHLab can potentially provide some resources -->
    - actually extending SABIO requires rather heavy server-side (Python) programming   
-     -> this can be done by us, so that the team members can focus on the content
+<!--      -> this can be done by us, so that the team members can focus on the content -->
    - SABIO is (currently) tailored towards the NMvW collection, requiring a rather specific format   
      -> we are working in the meantime on extending this format to fit other collections -> at the same time, this will restrict the choice of collections 
-   - many collections are subject to copyright restriction, which may pose a hurdle in this challenge
+   - many collections are subject to copyright restrictions, which may pose a hurdle in this challenge
+
 
 4. **Resources**:
 
