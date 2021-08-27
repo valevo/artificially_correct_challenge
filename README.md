@@ -2,10 +2,11 @@
 The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_ Hackathon
 
 
-## CulturalAI  <img src="https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg" alt="CulturalAI Logo" width="200"/>
+## CulturalAI  
 
 
-<!-- ![CulturalAI Logo](https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg "CulturalAI Logo" =100x20) -->
+<img src="https://github.com/valevo/artificially_correct_challenge/blob/main/logo_white.jpg" alt="CulturalAI Logo" width="200"/>
+
 
 
 
@@ -23,12 +24,15 @@ In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [Nat
 
    - SABIO emphasises the aspect of bisa as a social and cultural act; its goal is to merely provide new, unseen paths towards 
 
+
 2. **Description**:
-   - so far, SABIO has only been developed and tested (not deployed yet) on the NMvW's collection which is monolingual Dutch; at the same time, all of SABIO's algorithms and interface have been 
-   - this challenge consists of experimenting with SABIO (or at least the algorithms used conists of) in mutlilingual settings
-   - potential tasks include: 
-     - analysing an originally multilingual collection with SABIO and 
-     - machine translating an originally monolingual collection and input 
+
+   - so far, SABIO has only been developed and tested (not deployed yet) on the NMvW's collection which is monolingual Dutch; at the same time, all of SABIO's algorithms and interface have been built with the aim to be language independent as much as posssible (i.e. not relying, for instance, on hand-crafted language-specific corpora); a part of this challenge could be to test this by using SABIO on multilingual collections
+ 
+   - this challenge consists of experimenting with SABIO (or at least the algorithms it consists of) in multilingual settings and extending SABIO with algorithms tailored for capturing bias in context of multi- or cross-lingual collections; potential tasks include: 
+     - analysing an originally multilingual collection in SABIO and identifying patterns of bias across the languages present in the collection
+     - designing extensions to SABIO, new algorithms or new dataset organisation levels, that are tailored for multilingual settings and that can facilitate comparison of bias across languages 
+     - machine translating an originally monolingual collection, inputting it into SABIO and analysing whether and how bias survives 
 
 
 3. **Considerations**:
@@ -53,10 +57,13 @@ In the [Cultural AI Lab](https://www.cultural-ai.nl/) and together with the [Nat
  Participants should have experience with either:
  
    - basic statistics and machine learning, specifically with natural language applications & (Python) programming
+     (think of constructing word embeddings or defining and computing semantic association scores)
    - databases and digital archives (i.e. tabular data, RDF, etc), their intricacies and how to (pre-)process them for ML
+     (e.g. building a database cleaning pipeline, basic natural language preprocessing on large sets of text)
    - doing research (historical, sociological, etc) on heritage collections, archives and the like
-   - 
-
-
-
-
+   - philosophical or sociological research on bias, especially in cultural contexts
+  
+ Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other. 
+ To be able to assess the quality and extent of the biases found with SABIO, it is useful if participants understand the language(s) of the input collection and therefore a team of speakers of different languages would be an advantage. 
+ 
+ 
