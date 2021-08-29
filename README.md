@@ -1,6 +1,4 @@
-## `Artificially Correct` Challenge:
-
-### Does Bias in Collections and Archives Survive Translation and Multilingualism?
+## Does Bias in Collections and Archives Survive Translation and Multilingualism?
 The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_ Hackathon.
 
 
