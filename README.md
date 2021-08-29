@@ -23,10 +23,8 @@ https://www.cultural-ai.nl
 
   - Machine learning algorithms and their underlying datasets, such as the ones used by SABIO, require considerable computational resources and time; especially experimentation with such algorithms on large collections can be hindered by lack of resources 
   - As of now, SABIO's data format is rather specific to the NMvW collection and thus requires specific properties to be present. We are working in the meantime on more general data specifications in order to fit other collections but this will likely restrict the choice of collection for the hackathon.
-  - Collections are often subject to copyright restrictions or , which might not make it impossible to gain access but difficult and time-consuming.
+  - Collections are often subject to copyright restrictions or not prepared for digital processing which might make it difficult and time-consuming to gain access.
   - SABIO itself is a server-based application; even though it is entirely open-source, actually extending it or creating parallel versions requires server-side programming and resources for hosting.
-
-
 
 
 
@@ -39,10 +37,10 @@ https://www.cultural-ai.nl
 
    Participants should have experience with either:
  
-     - Basic statistics and machine learning, specifically with natural language applications & (Python) programming; e.g. constructing word embeddings or defining and computing semantic association scores.
-     - Dealing with databases and digital archives, their intricacies and (pre-)processing them for machine learning; e.g. building a database cleaning pipeline and basic natural language preprocessing on large sets of text.
-     - Performing research (historical, sociological and similar) on heritage collections, archives and the like, in particular with the use of search interfaces and visualisation tools.
-     - Research into bias of diverse kinds, especially in contexts of cultural hertiage, and defining and analysing it in given aspects of society.
+   - Basic statistics and machine learning, specifically with natural language applications & (Python) programming; e.g. constructing word embeddings or defining and computing semantic association scores.
+   - Dealing with databases and digital archives, their intricacies and (pre-)processing them for machine learning; e.g. building a database cleaning pipeline and basic natural language preprocessing on large sets of text.
+   - Performing research (historical, sociological and similar) on heritage collections, archives and the like, in particular with the use of search interfaces and visualisation tools.
+   - Research into bias of diverse kinds, especially in contexts of cultural hertiage, and defining and analysing it in given aspects of society.
   
    Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other.
    
