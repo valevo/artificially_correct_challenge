@@ -1,4 +1,5 @@
 ## `Artificially Correct` Challenge:
+
 ### Does Bias in Collections and Archives Survive Translation and Multilingualism?
 The _Cultural AI Lab's_ Repo for the _Goethe Institute's_ _Artificially Correct_ Hackathon.
 
@@ -14,10 +15,10 @@ https://www.cultural-ai.nl
 #### Description
 
   So far, SABIO has been developed and tested exclusively on the NMvW's collection, a monolingual Dutch archive of around 800k objects with descriptions, titles and other meta-properties. At the same time, all of the design choices for SABIO have been made with the aim of maximal language independence and we would like to put this to the test. We therefore invite participants to experiment with and extend SABIO, or at least the algorithms it uses, in cross- and multilingual contexts. Potential tasks include but are by no means limited to:
-  1. findinging and analysing an originally multilingual collection in SABIO and identifying patterns of bias across the languages present and how they translate
-  2. similarly, machine translating a monolingual translation and analysing with the of SABIO how biases are transmitted and whether they survive automatic translation
-  3. conceptual research on how paths in search of bias might be different across the languages present in a collection, and implementations based upon conclusions
-  4. designing extensions to SABIO itself or to its algorithms that are tailored to comparison and highlighting of bias across languages
+  1. Findinging and analysing an originally multilingual collection in SABIO and identifying patterns of bias across the languages present and how they translate.
+  2. Similarly, machine translating a monolingual translation and analysing with the of SABIO how biases are transmitted and whether they survive automatic translation.
+  3. Conceptual research on how paths in search of bias might be different across the languages present in a collection, and implementations based upon conclusions.
+  4. Designing extensions to SABIO itself or to its algorithms that are tailored to comparison and highlighting of bias across languages.
    
 
 #### Considerations
@@ -45,5 +46,5 @@ https://www.cultural-ai.nl
      - Performing research (historical, sociological and similar) on heritage collections, archives and the like, in particular with the use of search interfaces and visualisation tools.
      - Research into bias of diverse kinds, especially in contexts of cultural hertiage, and defining and analysing it in given aspects of society.
   
-   Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other, 
+   Optimally, the team would be made up of a mix of expertises in researching bias in cultural collections on the one hand and language processing on the other.
    
