@@ -1,3 +1,11 @@
+# SABIO
+
+
+## Introduction
+
+
+
+
 ## Data Format & Preparation
 
 The data format on which SABIO works is fairly simple: a table of objects with, aside from basic
@@ -16,8 +24,9 @@ optional but then of course, filtering, searching and scoring objects doesn't ma
 
 #### The NMvW Data in CSV
 
-Here an excerpt from the data of the Dutch Museum of World Cultures (NMvW), transformed by into the
-required CSV format. Notice that 
+Here is an excerpt from the data of the Dutch Museum of World Cultures (NMvW), transformed by into a CSV format that SABIO can work with. 
+
+Notice that the NMvW data hasv two dates (`BeginISODate` & `EndISODate`) instead of just one; this is because for most objects, there is uncertainty about the actual date the object was created. `Dated` is a non-parseable string that gives more details about the date of an object.
 
 
 
@@ -41,6 +50,8 @@ required CSV format. Notice that
     |   Dated  | str  | 0                   | 0                 | 0        | 0 |
     | Departmen| str  | 0                   | 1                 | 1        | 0 |
     | Classific| str  | 0                   | 1                 | 1        | 0 |
+    
+   The meta table indicates that `Title` and `Description` are both used to search for objects and to score them with the bias scoring engines. `BeginISODate`, `EndISODate`, `Department` and `Classification` are both parameters for filtering objects (`IsSearchParameter`) and for organising them on the x-axis of the graphical interface.
       
       
       
