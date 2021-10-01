@@ -3,6 +3,12 @@
 
 ## Introduction
 
+The **S**oci**A**l **BI**as **O**bservatory (**SABIO**) is a tool and graphical interface to explores and search archives and collections in terms of social bias.
+
+
+
+<img src="https://github.com/valevo/artificially_correct_challenge/blob/main/sabio_screenshot1.png" alt="SABIO Screenshot" width="350"/>
+
 
 
 
